@@ -3,7 +3,7 @@
 # 👋🏻 Greetings!
 I am currently on sometimes frustrating, but usually chill and stable adventure with my three companions: **JavaScript**, **CSS** and **HTML**. Together we are looking for a possibility to join another adventurous team with all the challenges of the journey ahead!
 
-🛖 We could meet in the great castle of **[LinkedIn](https://www.linkedin.com/in/mooniidev/)** or deeply in the **Email** woods, where hides mystical **mooniidev@protonmail.com** inn.
+🛖 We could meet in the great castle of **[LinkedIn](https://www.linkedin.com/in/mooniidev/)** or deeply in the **Email** woods, where hides the mystical **mooniidev@protonmail.com** inn.
 
 ## Languages and Tools
 
