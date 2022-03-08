@@ -5,6 +5,8 @@ I am currently on sometimes frustrating, but usually chill and stable adventure 
 
 🛖 We could meet in the great castle of **[LinkedIn](https://www.linkedin.com/in/mooniidev/)** or deeply in the **Email** woods, where hides the mystical **mooniidev@protonmail.com** inn.
 
+⬇️ Feel free to check out my projects pinned below.
+
 ## Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
