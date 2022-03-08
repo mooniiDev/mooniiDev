@@ -34,8 +34,8 @@ I am currently on sometimes frustrating, but usually chill and stable adventure 
 
 ## At my free time I:
 
-🧗🏻‍♀️ Practice Rock Climbing
+🧗🏻‍♀️ Practice rock climbing
 
-🎨 Learn to paint Pixel Art
+🎨 Learn to paint pixel art
 
-🏕️ Enjoy Nature and its Goodies
+🏕️ Enjoy nature and its goodies
