@@ -4,7 +4,7 @@ I'm currently on a **front-end web development** adventure with the good knowled
 
 🌐 **[LinkedIn](https://www.linkedin.com/in/mooniidev/)**
 
-📪 **mooniidev@protonmail.com**
+📪 **mooniidev@proton.me**
 
 ⬇️ Feel free to check out my projects pinned below.
 
