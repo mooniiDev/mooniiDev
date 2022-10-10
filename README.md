@@ -1,6 +1,6 @@
-
 ## Greetings! 👋🏼
-I'm currently on a **front-end web development** adventure with the good knowledge of **JavaScript**, **CSS** and **HTML**. Looking forward to join another adventurous team and help on some interesting projects!
+
+I'm currently on a **frontend web development** adventure with the good knowledge of **JavaScript**, **CSS** and **HTML**. Looking forward to join another adventurous team and help on some interesting projects!
 
 🌐 **[LinkedIn](https://www.linkedin.com/in/mooniidev/)**
 
@@ -10,19 +10,19 @@ I'm currently on a **front-end web development** adventure with the good knowled
 
 ### Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=10a0dc)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
+![npm](https://img.shields.io/badge/-npm-333?style=flat-square&logo=npm)
+![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
+![webpack](https://img.shields.io/badge/-webpack-333?style=flat-square&logo=webpack)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
+![ESLint](https://img.shields.io/badge/-ESLint-333?style=flat-square&logo=eslint&logoColor=6261dd)
 
 ### Additional Tools
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Notion](https://img.shields.io/badge/-Notion-333?style=flat-square&logo=notion)
+![Trello](https://img.shields.io/badge/-Trello-333?style=flat-square&logo=trello&logoColor=1e87e0)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333?style=flat-square&logo=adobe-photoshop)
+![Aseprite](https://img.shields.io/badge/-Aseprite-333?style=flat-square&logo=aseprite)
