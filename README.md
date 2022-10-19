@@ -1,6 +1,6 @@
 ## Greetings! 👋🏼
 
-I'm currently on a **frontend web development** adventure with the good knowledge of **JavaScript**, **CSS** and **HTML**. Looking forward to join another adventurous team and help on some interesting projects!
+I'm currently on a **front-end web development** adventure with the good knowledge of **JavaScript**, **CSS** and **HTML**. Looking forward to join another adventurous team and help on some interesting projects!
 
 🌐 **[LinkedIn](https://www.linkedin.com/in/mooniidev/)**
 
