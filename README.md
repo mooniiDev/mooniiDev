@@ -1,28 +1,28 @@
-## Greetings! 👋🏼
+## Greetings! <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="30" align="top">
 
-I'm currently on a **front-end web development** adventure with the good knowledge of **JavaScript**, **CSS** and **HTML**. Looking forward to join another adventurous team and help on some interesting projects!
+As a front-end web developer, I possess a comprehensive understanding of JavaScript, CSS, and HTML. I am actively seeking opportunities to join a dynamic team and make meaningful contributions to innovative projects.
+
+If you are interested in my qualifications and experience, I would be happy to engage in a conversation.
 
 🌐 **[LinkedIn](https://www.linkedin.com/in/mooniidev/)**
 
 📪 **mooniidev@proton.me**
 
-⬇️ Feel free to check out my projects pinned below.
-
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=10a0dc)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
-![npm](https://img.shields.io/badge/-npm-333?style=flat-square&logo=npm)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwind-css&logoColor=06b6d4)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)<br>
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)<br>
 ![webpack](https://img.shields.io/badge/-webpack-333?style=flat-square&logo=webpack)
+![npm](https://img.shields.io/badge/-npm-333?style=flat-square&logo=npm)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
-![ESLint](https://img.shields.io/badge/-ESLint-333?style=flat-square&logo=eslint&logoColor=6261dd)
 
-### Additional Tools
+### Additional Skills
 
-![Notion](https://img.shields.io/badge/-Notion-333?style=flat-square&logo=notion)
-![Trello](https://img.shields.io/badge/-Trello-333?style=flat-square&logo=trello&logoColor=1e87e0)
+![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333?style=flat-square&logo=adobe-photoshop)
-![Aseprite](https://img.shields.io/badge/-Aseprite-333?style=flat-square&logo=aseprite)
+![Gimp](https://img.shields.io/badge/-Gimp-333?style=flat-square&logo=gimp&logoColor=5c5543)
+![Trello](https://img.shields.io/badge/-Trello-333?style=flat-square&logo=trello&logoColor=1e87e0)
