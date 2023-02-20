@@ -11,6 +11,7 @@ If you are interested in my qualifications and experience, I would be happy to e
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=10a0dc)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwind-css&logoColor=06b6d4)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)<br>
