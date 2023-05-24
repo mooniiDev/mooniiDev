@@ -1,8 +1,6 @@
 ## Greetings! <img src="https://media.tenor.com/MdI9bTt7NMgAAAAi/good-evening-hand-wave.gif" width="30" align="top">
 
-As a front-end web developer, I possess a comprehensive understanding of JavaScript, CSS, and HTML. I am actively seeking opportunities to join a dynamic team and make meaningful contributions to innovative projects.
-
-If you are interested in my qualifications and experience, I would be happy to engage in a conversation.
+As a web developer, I aspire to leverage my skills and experience to contribute to tangible real-world projects.
 
 🌐 **[LinkedIn](https://www.linkedin.com/in/mooniidev/)**
 
